@@ -60,9 +60,7 @@
       <DesignTime>True</DesignTime>
       <DependentUpon>SimpleMathematicalParser.feature</DependentUpon>
     </Compile>
-    <Compile Include="\\Mac\Home\Documents\Visual Studio 2015\Projects\NiceTest\NiceTest.Spec\SimpleMathematicalParserSteps.cs">
-      <Link>SimpleMathematicalParserSteps.cs</Link>
-    </Compile>
+    <Compile Include="SimpleMathematicalParserSteps.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
